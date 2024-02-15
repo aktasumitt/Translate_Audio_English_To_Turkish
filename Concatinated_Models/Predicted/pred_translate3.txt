@@ -1,0 +1,5 @@
+Input Text:
+ With its compact size and streets packed with eye candy of all sorts, New York City is an urban wanderer's delight. Every neighborhood offers a dramatically different version of the city, from the 100-year-old Jewish delis of the Upper West Side to the brightly painted Buddhist temples in Chinatown. And the best way to experience it all is to walk its streets.
+
+Translated Text:
+["Kompakt boyutlarý ve her türlü gözlü þekerle dolu sokaklarýyla, New York kenti bir þehir gezenin tadýný çýkarýyor. Her mahallenin kentin belirgin derecede farklý bir versiyonu var, Upper West Side'daki 100 yýllýk Yahudi delis'ten Chinatown'daki parlak boyalý Buddist tapýnaðýna kadar. Bunlarýn hepsini yaþamak için en iyi yol sokaklarda yürümek."]
